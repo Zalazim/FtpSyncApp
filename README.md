@@ -78,25 +78,6 @@ This design allows future support for additional protocols such as FTP.
 
 ---
 
-## Build and Publish
-
-The project targets **.NET 10.0 for Windows** and uses Windows Forms.
-
-### Build
-1. Open the solution in Visual Studio.
-2. Select the `Release` configuration.
-3. Build the project.
-
-### Publish
-1. Open the project's Publish profile.
-2. Choose **Self-contained** deployment.
-3. Select the appropriate runtime (typically `win-x64`).
-4. Publish to any directory.
-
-This produces a standalone executable that does not require .NET to be installed on the target environment.
-
----
-
 ## Dependencies
 
 - .NET 10.0
