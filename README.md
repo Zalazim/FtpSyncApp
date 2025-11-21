@@ -5,6 +5,8 @@ It provides fine-grained control over which folders are synchronized, how files 
 
 This project is written in C# / .NET using Windows Forms, with file transfers implemented through SSH.NET.
 
+![Main window screenshot](FTPSyncApp.jpg)
+
 ---
 
 ## Features
