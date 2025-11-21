@@ -8,6 +8,7 @@ obj/
 # User-specific files
 *.user
 *.suo
+*.pubxml.user
 
 # Generated binaries
 *.exe
