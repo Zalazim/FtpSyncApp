@@ -1,0 +1,18 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Generated binaries
+*.exe
+*.dll
+*.pdb
+
+# VS Code
+.vscode/
